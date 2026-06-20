@@ -287,7 +287,7 @@ f-z7L91weUrEhWq-F-OA3pxTFxv6RYvGJkHS8WBe2Ig
 ```
 eyJ2IjoxLCJraW5kIjoicmlkZSIsInN5bWJvbCI6IlNMT1AiLCJwZXJpb2QiOiIxeSIsImNhcCI6Njc2NzY3LCJpYXQiOjB9.f-z7L91weUrEhWq-F-OA3pxTFxv6RYvGJkHS8WBe2Ig
 ```
-\- Script tham khảo
+\- Script tham khảo:
 
 <details>
     <summary>Chạy một phát ăn ngay</summary>
@@ -331,3 +331,5 @@ console.log(
 ![alt text](images/image-6.png)
 
 >slopped{riding_0n_M3?}
+
+
